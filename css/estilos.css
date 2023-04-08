@@ -1,6 +1,7 @@
 body{
+
    
-    text-align: center;
+    background-image: linear-gradient(335deg, #6593d6 0, #5086cc 50%, #3879c2 100%);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
     color: rgb(33, 32, 32);
@@ -38,8 +39,11 @@ body{
     font-size: 20px;
     margin: 0;
     font-weight: bold;
-    padding: 0.5rem;
+    padding: 0.5em 0 0.5em 2em ;
 
+}
+.Cabecera .Logo{
+    width:35px;vertical-align:middle
 }
 
 .Cabecera .tagline {
@@ -48,6 +52,7 @@ body{
     font-size: 12px;
 }
 .post{
+    background: white;
     padding: 1rem;
 
 }
