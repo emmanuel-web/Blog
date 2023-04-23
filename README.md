@@ -7,3 +7,5 @@ en este curso vimos de todo:
 * El flujo de trabajo de Github
 * Las buenas practicas
 * Creado por Platzi Team
+* inculye ejemplos en Linux, Windows y Mac
+* Disponible para todas las edades
